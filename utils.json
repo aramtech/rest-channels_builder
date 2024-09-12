@@ -1,0 +1,17 @@
+{
+    "name": "rest-channels_builder",
+    "deps": {
+        "rest-log": {
+            "owner": "aramtech",
+            "repo": "rest-log",
+            "update_policy": "major",
+            "version": "0.2.0"
+        }
+    },
+    "private": false,
+    "public_repo": false,
+    "owner": "aramtech",
+    "hash": "T8C0U8O22HfnAYUOpH19EOsF6xO4rlLTy5I2iaP_Ks4",
+    "version": "0.5.2",
+    "description": ""
+}
